@@ -6,7 +6,7 @@ A simple program to turn an LED on and off with a button using an ESP32.
 
 ### Wiring Diagram
 
-
+https://github.com/leolinkebrown/INPUTS-AND-OUTPUTS-BUTTON-LED-ESP32/blob/8d7693c1825fe0bfc2d9c2b45387680065580f3c/PXL_20230806_051209003.jpg
 
 ### Demonstration
 
