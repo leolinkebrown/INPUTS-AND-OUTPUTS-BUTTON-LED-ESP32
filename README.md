@@ -34,3 +34,11 @@ First, the variables for the button and LED pins are set to 4 and 5 respectively
 - Wire ESP32 board as shown in 'Wiring Diagram'
 - Input code in 'INPUTS-AND-OUTPUTS-BUTTON-LED-ESP32.ino' under 'Main'
 - Enjoy!
+
+## Bibliography
+
+- Anon, (2020). ESP32 Digital Inputs and Digital Outputs (Arduino IDE) | Random Nerd Tutorials. [online] Available at: https://randomnerdtutorials.com/esp32-digital-inputs-outputs-arduino/.
+- Kashif (n.d.). ESP32 Digital Inputs and Digital Outputs Using Arduino IDE. [online] Available at: https://linuxhint.com/esp32-digital-input-output-arduino-ide/ [Accessed 14 Aug. 2023].
+- Magdy, K. (2021). ESP32 GPIO (Digital Inputs & Digital Outputs) - Arduino Tutorial. [online] DeepBlue. Available at: https://deepbluembedded.com/esp32-digital-inputs-outputs-arduino/.
+
+‌
